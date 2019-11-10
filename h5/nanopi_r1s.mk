@@ -3,7 +3,7 @@
 TARGET_PLAT=h5
 TARGET_ARCH=arm64
 CROSS_COMPILER=aarch64-linux-gnu-
-TARGET_OSNAME=friendlywrt_4.14_armhf
+TARGET_OSNAME=friendlywrt_4.14_arm64
 
 # FriendlyWRT
 # 
