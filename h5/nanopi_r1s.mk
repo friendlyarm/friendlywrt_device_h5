@@ -28,7 +28,7 @@ TARGET_KERNEL_DTB=sun50i-h5-nanopi*.dtb
 
 # Misc
 # 
-FRIENDLYWRT_ROOTFS=build_dir/target-aarch64_cortex-a53_musl/root-sunxi
+FRIENDLYWRT_ROOTFS=build_dir/target-aarch64_cortex-a53_musl/root-allwinner-h5
 TARGET_IMAGE_DIRNAME=friendlywrt_4.14_arm64
 TARGET_SD_RAW_FILENAME=FriendlyWrt_$(date +%Y%m%d)_NanoPi-R1S_aarch64_sd.img
 TARGET_EFLASHER_RAW_FILENAME=FriendlyWrt_$(date +%Y%m%d)_NanoPi-R1S_aarch64_eflasher.img
